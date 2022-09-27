@@ -20,8 +20,7 @@ You can reach out to the community members via any one of the following ways:
 * Stack Overflow: [https://stackoverflow.com/questions/tagged/curve](https://stackoverflow.com/questions/tagged/curve)
 * Slack: [Curve Channel](https://cloud-native.slack.com/?redir=%2Farchives%2FC03LFPT6BJM)
 * Wiki: [Curve Wiki](https://github.com/opencurve/curveadm/wiki/overview)
-* Wechat: We use Wechat group currently.
-![img.png](img.png)
+
 
 ## Your First Contribution
 

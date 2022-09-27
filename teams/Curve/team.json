@@ -1,0 +1,26 @@
+{
+    "_comment": [
+        "Items of lists in this file are in alphabetical order. Please keep it on modification."
+    ],
+
+    "maintainers": [
+        "Wangpan",
+        "ilixiaocui",
+        "skypexu"
+    ],
+
+    "committers": [
+        "wu-hanqing",
+        "cw123",
+        "xu-chaojie",
+        "SeanHai"
+    ],
+    
+    "reviewers": [
+        "Wine93",
+        "YunHuiChen",
+        "baijiaruo",
+        "wuhongsong",
+        "h0hmj"
+    ]
+}

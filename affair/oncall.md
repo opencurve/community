@@ -25,9 +25,9 @@
 |  ----  | ----  | --- |
 | 14/11/2022 to 20/11/2022 | 吴宏松 | https://github.com/opencurve/community/blob/master/affair/week_report/2022-11-21.md
 | 21/11/2022 to 27/11/2022 | 陈威 | https://github.com/opencurve/community/blob/master/affair/week_report/2022-11-28.md |
-| 28/11/2022 to 04/12/2022  | 程义 | 
+| 28/11/2022 to 04/12/2022  | 程义 | https://github.com/opencurve/community/blob/master/affair/week_report/2022-12-05.md
 | 05/12/2022 to 11/12/2022 | 李小翠 | https://github.com/opencurve/community/blob/master/affair/week_report/2022-12-12.md
-| 12/12/2022 to 18/12/2022 | 吴宏松 | 
+| 12/12/2022 to 18/12/2022 | 吴宏松 | https://github.com/opencurve/community/blob/master/affair/week_report/2022-12-19.md
 | 12/12/2022 to 18/12/2022 | 陈威 |
 | 19/12/2022 to 25/12/2022  | 程义 | 
 | 26/12/2022 to 1/1/2023  | 李小翠 | 

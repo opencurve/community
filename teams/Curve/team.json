@@ -6,21 +6,23 @@
     "maintainers": [
         "Wangpan",
         "ilixiaocui",
-        "skypexu"
-    ],
+        "cw123",
+        "wuhongsong",
+        "Cyber-SiKu"
+     ],
 
     "committers": [
         "wu-hanqing",
-        "cw123",
         "xu-chaojie",
         "SeanHai"
+        "skypexu",
+        "Wine93",
+        "fansehep"
     ],
     
     "reviewers": [
-        "Wine93",
         "YunHuiChen",
         "baijiaruo",
-        "wuhongsong",
         "h0hmj"
     ]
 }

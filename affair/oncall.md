@@ -48,3 +48,4 @@
 | 8/5/2023 to 12/5/2023  | 李小翠 | [https://github.com/opencurve/community/blob/master/affair/week_report/2023-05-15.md](https://github.com/opencurve/community/blob/master/affair/week_report/2023-05-15.md) |
 | 13/5/2023 to 22/5/2023  | 吴宏松 | [https://github.com/opencurve/community/blob/master/affair/week_report/2023-05-22.md](https://github.com/opencurve/community/blob/master/affair/week_report/2023-05-22.md) |
 | 23/5/2023 to 29/5/2023  | 程义 | [2023-05-29.md](https://github.com/opencurve/community/blob/master/affair/week_report/2023-05-29.md) |
+| 29/5/2023 to 5/6/2023  | 曹先飞 | [https://github.com/opencurve/community/blob/master/affair/week_report/2023-06-05.md](https://github.com/opencurve/community/blob/master/affair/week_report/2023-06-05.md) |

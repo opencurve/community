@@ -60,3 +60,4 @@
 | 31/7/2023 to 7/8/2023  | 王海 | [2023-08-07.md](https://github.com/opencurve/community/blob/master/affair/week_report/2023-08-07.md) |
 | 07/8/2023 to 14/0/2023  | 吴宏松 | [2023-08-14.md](https://github.com/opencurve/community/blob/master/affair/week_report/2023-08-14.md) |
 | 15/8/2023 to 21/0/2023  | 程义 | [2023-08-21.md](https://github.com/opencurve/community/blob/master/affair/week_report/2023-08-21.md) |
+| 15/8/2023 to 21/0/2023  | 程义 | [2023-08-21.md](https://github.com/opencurve/community/blob/master/affair/week_report/2023-08-21.md) |
